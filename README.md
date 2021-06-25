@@ -1,2 +1,2 @@
-# Quiz-app-
+# Quiz-app
 First Vue.js app
